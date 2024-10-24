@@ -13,4 +13,4 @@ Make sure there are some words in `Name` item, and is ok to `Active License`
 
 
 
-[]: https://pan.baidu.com/s/12cUB0OreKEPnNnyYvvpGrQ?pwd=k67c	"download"
+https://pan.baidu.com/s/12cUB0OreKEPnNnyYvvpGrQ?pwd=k67c
