@@ -1,6 +1,6 @@
 ## share
 
-I crack the latest version of 010 Editer v15.0 and share it with you.
+I crack the latest version of 010 Editor v15.0 and share it with you.
 
 Make sure there are some words in `Name` item, and is ok to `Active License`
 
